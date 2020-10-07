@@ -1,5 +1,5 @@
 # beego-config-ext 为扩展beego-config模块
-目前已经增加zookeeper扩展，实现config接口
+目前已经增加zookeeper扩展，基于beego config标准实现zookeeper接口
 ## 安装
 ```go
 go get github.com/zjlsliupei/beego-config-ext
